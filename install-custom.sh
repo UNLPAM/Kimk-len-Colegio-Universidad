@@ -3,6 +3,9 @@
 ############################################################################################
 # Description: kimkelen installation from our repository that contains some modifications  #
 # Usage: sudo ./install-custom.sh $(whoami)                                                #
+# Access: localhost/kimkelen-application/web                                               #
+# Credentials: admin / @dm1n1strad0r                                                       #
+# Project URL: https://github.com/Desarrollo-CeSPI/kimkelen                                #
 # Author: ivan@mansillahub.ar                                                              #
 ############################################################################################
 
